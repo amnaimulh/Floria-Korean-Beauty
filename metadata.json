@@ -1,0 +1,6 @@
+{
+  "name": "Floria Korean Beauty",
+  "description": "Premium Korean skincare and beauty e-commerce storefront and management platform for Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
